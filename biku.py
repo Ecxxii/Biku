@@ -325,8 +325,8 @@ MR \033[1;37m a88888b.  888888ba   .d888888  d8888888P dP    dP
    Y8.   .88  88     88 88     88  d8'          88       
     Y88888P'  dP     dP 88     88  Y8888888P    dP  {warn}404{P}     
 {warna}---------------------------------------------------{P}
- Author    {M}:\033[1;37m    MR BIBASH  
- Github    {M}:\033[1;37m     PRIVATE
+ Author    {M}:\033[1;37m MR BIBASH  
+ Github    {M}:\033[1;37m PRIVATE
  Facebook  {M}:\033[1;37m Th'w Bibash
  Tool Name {M}:\033[1;37m BIBASH ャ
  Future    {M}:\033[1;37m {H}F{P}|{H}R{P}|{H}N{P}|{H}G{P}
