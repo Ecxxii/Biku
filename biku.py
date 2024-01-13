@@ -327,8 +327,8 @@ MR \033[1;37m a88888b.  888888ba   .d888888  d8888888P dP    dP
 {warna}---------------------------------------------------{P}
  Author    {M}:\033[1;37m MR BIBASH  
  Github    {M}:\033[1;37m PRIVATE
- Facebook  {M}:\033[1;37m Th'w Bibash
- Tool Name {M}:\033[1;37m BIBASH ャ
+ Facebook  {M}:\033[1;37m BIBASH ャ
+ Tool Name {M}:\033[1;37m EMPTY
  Future    {M}:\033[1;37m {H}F{P}|{H}R{P}|{H}N{P}|{H}G{P}
  Status    {M}:\033[1;32m Premium{P}
  Version   {M}: {GREEN}1.0.2\033[1;37m
